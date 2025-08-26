@@ -17,7 +17,7 @@
 - `activeTab` (or specific host permissions) – features run only when you invoke the extension
 
 ## Privacy
-No data is collected, transmitted, or sold. Read the full policy: [/privacy](/privacy)
+No data is collected, transmitted, or sold. Read the full policy: https://sergioadevita.github.io/mtg-peek-support/privacy
 
 ## Changelog
 **1.0.0** — First public release.
