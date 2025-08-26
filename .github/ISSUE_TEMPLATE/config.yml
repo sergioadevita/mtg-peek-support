@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions / Discussions
+    url: https://github.com/YOURUSER/mtg-keep/discussions
+    about: Ask questions and discuss ideas here.
+  - name: Ko‑fi Support
+    url: https://ko-fi.com/sergioadevita
+    about: Leave a tip or support the project.
