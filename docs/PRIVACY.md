@@ -1,12 +1,12 @@
 # MTG Keep – Privacy Policy
 _Last updated: 2025-08-26_
 
-**Short version:** MTG Keep does not collect, transmit, or sell personal data. All settings stay in your browser.
+**Short version:** MTG Peek does not collect, transmit, or sell personal data. All settings stay in your browser.
 
 ---
 
 ## What the extension does
-MTG Keep adds quality-of-life tools for Magic: The Gathering™ browsing (e.g., quick card peek and sorting) and shows an optional Ko‑fi **Donate** button that links to your Ko‑fi page.
+MTG Peek adds quality-of-life tools for Magic: The Gathering™ browsing (e.g., quick card peek and sorting) and shows an optional Ko‑fi **Donate** button that links to your Ko‑fi page.
 
 ## Data collection
 - We **do not** collect, transmit, or sell personal or sensitive user data.
@@ -14,7 +14,7 @@ MTG Keep adds quality-of-life tools for Magic: The Gathering™ browsing (e.g., 
 - We **do not** run remote code or load remotely hosted code.
 
 ## Permissions (transparency)
-MTG Keep requests only the minimum required permissions. Typical permissions used:
+MTG Peek requests only the minimum required permissions. Typical permissions used:
 - `storage` – save user preferences (stored locally or via Chrome sync storage).
 - `activeTab` (or precise host permissions, if needed) – enable features only when you invoke the extension.
 - Other permissions will only be requested if strictly necessary for visible features.
@@ -36,8 +36,8 @@ This extension is not directed to children under 13 and does not knowingly colle
 If we change what data we handle, we will update this policy and the Chrome Web Store privacy fields before releasing a new version.
 
 ## Contact
-Questions? Email: **REPLACE_WITH_CONTACT_EMAIL**  
-Homepage/Support: **REPLACE_WITH_SUPPORT_URL**
+Questions? Email: sergio.a.devita@gmail.com 
+Homepage/Support: https://github.com/sergioadevita/mtg-peek-support/issues
 
 ## Trademarks
-Magic: The Gathering™ and all related marks are trademarks of Wizards of the Coast LLC. MTG Keep is an independent tool and is not affiliated with or endorsed by Wizards of the Coast.
+Magic: The Gathering™ and all related marks are trademarks of Wizards of the Coast LLC. MTG Peek is an independent tool and is not affiliated with or endorsed by Wizards of the Coast.
